@@ -60,6 +60,10 @@ body {
   list-style: none;
   text-align: right;
 }
+.list-non-bullet-social {
+  list-style: none;
+  /* text-align: right; */
+}
 
 .list-inline {
   display: inline;
